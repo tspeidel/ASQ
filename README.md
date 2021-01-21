@@ -6,7 +6,7 @@ In this presentation, I will provide an overview of the role that visualizations
 
 ### Part 2. Visualizations: Objectives and Constraints
 
-### Part 3. Tips and Good Practices
+### Part 3. Applications and Good Practices
 
 <br>
 
