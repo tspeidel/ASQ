@@ -10,4 +10,4 @@ In this presentation, I will provide an overview of the role that visualizations
 
 <br>
 
-https://user-images.githubusercontent.com/6731198/105388311-bc481600-5bd3-11eb-8951-af7417657835.png
+![](https://user-images.githubusercontent.com/6731198/105388311-bc481600-5bd3-11eb-8951-af7417657835.png)
