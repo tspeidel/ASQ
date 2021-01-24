@@ -1,6 +1,8 @@
 # ASQ
 In this presentation, I will provide an overview of the role that visualizations play in today's world of Big Data, AI (artificial intelligence), and ML (machine learning). Furthermore, I will illustrate how the second objective of visualizations addresses key principles of data and information quality.
 
+If you are lost, you are probably looking for this: https://tspeidel.github.io/asq/index.html#1
+
 
 ### Part 1. Establishing a Common Dictonary: Quality, Big Data, AI
 
