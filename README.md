@@ -12,4 +12,4 @@ If you are lost, you are probably looking for this: https://tspeidel.github.io/a
 
 <br>
 
-![](https://user-images.githubusercontent.com/6731198/105388311-bc481600-5bd3-11eb-8951-af7417657835.png)
+![https://tspeidel.github.io/asq/index.html](https://user-images.githubusercontent.com/6731198/105388311-bc481600-5bd3-11eb-8951-af7417657835.png)
