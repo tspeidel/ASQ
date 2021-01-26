@@ -2,10 +2,13 @@
 In this presentation, I will provide an overview of the role that visualizations play in today's world of Big Data, AI (artificial intelligence), and ML (machine learning). Furthermore, I will illustrate how the second objective of visualizations addresses key principles of data and information quality.
 
 <br>
+
 ***
+
 *If you are lost, you are probably looking for this:* https://tspeidel.github.io/asq/index.html#1
 
 *A PDF version is available here:* https://github.com/tspeidel/ASQ/raw/main/Speidel%20-%20Visualizations%20in%20the%20Analysis%20Workflow.pdf
+
 ***
 <br>
 
